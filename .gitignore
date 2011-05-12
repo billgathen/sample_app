@@ -5,3 +5,4 @@ log/*.log
 tmp/
 *.swp
 webrat.log
+db/schema.rb
